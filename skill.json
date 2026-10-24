@@ -1,0 +1,11 @@
+{
+  "name": "genpark-semantic-pull-request-blast-radius-and-risk-scorer-skill",
+  "version": "1.0.0",
+  "description": "Evaluates pull request churn, public API symbol modifications, and database schema impact to score deployment risk",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
